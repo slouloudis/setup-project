@@ -1,0 +1,966 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2024 The New York Times Company.  All Rights Reserved.",
+    "num_results": 15,
+    "last_modified": "2024-05-30T13:45:16-04:00",
+    "results": {
+    "list_name": "Hardcover Fiction",
+    "list_name_encoded": "hardcover-fiction",
+    "bestsellers_date": "2024-05-25",
+    "published_date": "2024-06-09",
+    "published_date_description": "latest",
+    "next_published_date": "",
+    "previous_published_date": "2024-06-02",
+    "display_name": "Hardcover Fiction",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "books": [
+    {
+    "rank": 1,
+    "rank_last_week": 0,
+    "weeks_on_list": 1,
+    "asterisk": 0,
+    "dagger": 0,
+    "primary_isbn10": "1668037718",
+    "primary_isbn13": "9781668037713",
+    "publisher": "Scribner",
+    "description": "A dozen short stories that explore darkness in literal and metaphorical forms.",
+    "price": "0.00",
+    "title": "YOU LIKE IT DARKER",
+    "author": "Stephen King",
+    "contributor": "by Stephen King",
+    "contributor_note": "",
+    "book_image": "https://storage.googleapis.com/du-prd/books/images/9781668037713.jpg",
+    "book_image_width": 329,
+    "book_image_height": 500,
+    "amazon_product_url": "https://www.amazon.com/dp/1668037718?tag=thenewyorktim-20",
+    "age_group": "",
+    "book_review_link": "",
+    "first_chapter_link": "",
+    "sunday_review_link": "",
+    "article_chapter_link": "",
+    "isbns": [
+    {
+    "isbn10": "1668037718",
+    "isbn13": "9781668037713"
+    },
+    {
+    "isbn10": "1668037734",
+    "isbn13": "9781668037737"
+    }
+    ],
+    "buy_links": [
+    {
+    "name": "Amazon",
+    "url": "https://www.amazon.com/dp/1668037718?tag=thenewyorktim-20"
+    },
+    {
+    "name": "Apple Books",
+    "url": "https://goto.applebooks.apple/9781668037713?at=10lIEQ"
+    },
+    {
+    "name": "Barnes and Noble",
+    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781668037713"
+    },
+    {
+    "name": "Books-A-Million",
+    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FYOU%2BLIKE%2BIT%2BDARKER%2FStephen%2BKing%2F9781668037713"
+    },
+    {
+    "name": "Bookshop",
+    "url": "https://bookshop.org/a/3546/9781668037713"
+    },
+    {
+    "name": "IndieBound",
+    "url": "https://www.indiebound.org/book/9781668037713?aff=NYT"
+    }
+    ],
+    "book_uri": "nyt://book/84fc5c9e-1607-56f8-afcd-0ee37bfc8237"
+    },
+    {
+    "rank": 2,
+    "rank_last_week": 1,
+    "weeks_on_list": 16,
+    "asterisk": 0,
+    "dagger": 0,
+    "primary_isbn10": "1250178630",
+    "primary_isbn13": "9781250178633",
+    "publisher": "St. Martin's",
+    "description": "In 1965, a nursing student follows her brother to serve during the Vietnam War and returns to a divided America.",
+    "price": "0.00",
+    "title": "THE WOMEN",
+    "author": "Kristin Hannah",
+    "contributor": "by Kristin Hannah",
+    "contributor_note": "",
+    "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250178633.jpg",
+    "book_image_width": 333,
+    "book_image_height": 500,
+    "amazon_product_url": "https://www.amazon.com/dp/1250178630?tag=thenewyorktim-20",
+    "age_group": "",
+    "book_review_link": "",
+    "first_chapter_link": "",
+    "sunday_review_link": "",
+    "article_chapter_link": "",
+    "isbns": [
+    {
+    "isbn10": "1250178630",
+    "isbn13": "9781250178633"
+    },
+    {
+    "isbn10": "1250178657",
+    "isbn13": "9781250178657"
+    }
+    ],
+    "buy_links": [
+    {
+    "name": "Amazon",
+    "url": "https://www.amazon.com/dp/1250178630?tag=thenewyorktim-20"
+    },
+    {
+    "name": "Apple Books",
+    "url": "https://goto.applebooks.apple/9781250178633?at=10lIEQ"
+    },
+    {
+    "name": "Barnes and Noble",
+    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250178633"
+    },
+    {
+    "name": "Books-A-Million",
+    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BWOMEN%2FKristin%2BHannah%2F9781250178633"
+    },
+    {
+    "name": "Bookshop",
+    "url": "https://bookshop.org/a/3546/9781250178633"
+    },
+    {
+    "name": "IndieBound",
+    "url": "https://www.indiebound.org/book/9781250178633?aff=NYT"
+    }
+    ],
+    "book_uri": "nyt://book/9ce735af-71cf-5ff3-a367-43ee07e3fdd7"
+    },
+    {
+    "rank": 3,
+    "rank_last_week": 0,
+    "weeks_on_list": 1,
+    "asterisk": 0,
+    "dagger": 0,
+    "primary_isbn10": "1250289696",
+    "primary_isbn13": "9781250289698",
+    "publisher": "St. Martin's",
+    "description": "Thea shares the gift to see into the minds and souls of others with the man who killed her parents when she was 12 and now seeks vengeance.",
+    "price": "0.00",
+    "title": "MIND GAMES",
+    "author": "Nora Roberts",
+    "contributor": "by Nora Roberts",
+    "contributor_note": "",
+    "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250289698.jpg",
+    "book_image_width": 329,
+    "book_image_height": 500,
+    "amazon_product_url": "https://www.amazon.com/dp/1250289696?tag=thenewyorktim-20",
+    "age_group": "",
+    "book_review_link": "",
+    "first_chapter_link": "",
+    "sunday_review_link": "",
+    "article_chapter_link": "",
+    "isbns": [
+    {
+    "isbn10": "1250289696",
+    "isbn13": "9781250289698"
+    },
+    {
+    "isbn10": "125028970X",
+    "isbn13": "9781250289704"
+    }
+    ],
+    "buy_links": [
+    {
+    "name": "Amazon",
+    "url": "https://www.amazon.com/dp/1250289696?tag=thenewyorktim-20"
+    },
+    {
+    "name": "Apple Books",
+    "url": "https://goto.applebooks.apple/9781250289698?at=10lIEQ"
+    },
+    {
+    "name": "Barnes and Noble",
+    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250289698"
+    },
+    {
+    "name": "Books-A-Million",
+    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMIND%2BGAMES%2FNora%2BRoberts%2F9781250289698"
+    },
+    {
+    "name": "Bookshop",
+    "url": "https://bookshop.org/a/3546/9781250289698"
+    },
+    {
+    "name": "IndieBound",
+    "url": "https://www.indiebound.org/book/9781250289698?aff=NYT"
+    }
+    ],
+    "book_uri": "nyt://book/fb927835-4906-59c1-9bcf-72f697f4fae6"
+    },
+    {
+    "rank": 4,
+    "rank_last_week": 0,
+    "weeks_on_list": 1,
+    "asterisk": 0,
+    "dagger": 0,
+    "primary_isbn10": "1649375700",
+    "primary_isbn13": "9781649375704",
+    "publisher": "Red Tower",
+    "description": "A giant machine left over from the war has something unstoppable in it.",
+    "price": "0.00",
+    "title": "HEAVENBREAKER",
+    "author": "Sara Wolf",
+    "contributor": "by Sara Wolf",
+    "contributor_note": "",
+    "book_image": "https://storage.googleapis.com/du-prd/books/images/9781649375704.jpg",
+    "book_image_width": 309,
+    "book_image_height": 500,
+    "amazon_product_url": "https://www.amazon.com/dp/1649375700?tag=thenewyorktim-20",
+    "age_group": "",
+    "book_review_link": "",
+    "first_chapter_link": "",
+    "sunday_review_link": "",
+    "article_chapter_link": "",
+    "isbns": [
+    {
+    "isbn10": "1649375700",
+    "isbn13": "9781649375704"
+    },
+    {
+    "isbn10": "1649375468",
+    "isbn13": "9781649375469"
+    }
+    ],
+    "buy_links": [
+    {
+    "name": "Amazon",
+    "url": "https://www.amazon.com/dp/1649375700?tag=thenewyorktim-20"
+    },
+    {
+    "name": "Apple Books",
+    "url": "https://goto.applebooks.apple/9781649375704?at=10lIEQ"
+    },
+    {
+    "name": "Barnes and Noble",
+    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781649375704"
+    },
+    {
+    "name": "Books-A-Million",
+    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHEAVENBREAKER%2FSara%2BWolf%2F9781649375704"
+    },
+    {
+    "name": "Bookshop",
+    "url": "https://bookshop.org/a/3546/9781649375704"
+    },
+    {
+    "name": "IndieBound",
+    "url": "https://www.indiebound.org/book/9781649375704?aff=NYT"
+    }
+    ],
+    "book_uri": "nyt://book/f1bd54a2-64e5-5e65-b87e-197f26f76c39"
+    },
+    {
+    "rank": 5,
+    "rank_last_week": 2,
+    "weeks_on_list": 5,
+    "asterisk": 0,
+    "dagger": 0,
+    "primary_isbn10": "0593441281",
+    "primary_isbn13": "9780593441282",
+    "publisher": "Berkley",
+    "description": "After their exes run off together, Daphne and Miles form a friendship and concoct a plan involving misleading photos.",
+    "price": "0.00",
+    "title": "FUNNY STORY",
+    "author": "Emily Henry",
+    "contributor": "by Emily Henry",
+    "contributor_note": "",
+    "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593441282.jpg",
+    "book_image_width": 331,
+    "book_image_height": 500,
+    "amazon_product_url": "https://www.amazon.com/dp/0593441281?tag=thenewyorktim-20",
+    "age_group": "",
+    "book_review_link": "",
+    "first_chapter_link": "",
+    "sunday_review_link": "",
+    "article_chapter_link": "",
+    "isbns": [
+    {
+    "isbn10": "0593441281",
+    "isbn13": "9780593441282"
+    },
+    {
+    "isbn10": "0593441222",
+    "isbn13": "9780593441220"
+    },
+    {
+    "isbn10": "0593826299",
+    "isbn13": "9780593826294"
+    }
+    ],
+    "buy_links": [
+    {
+    "name": "Amazon",
+    "url": "https://www.amazon.com/dp/0593441281?tag=thenewyorktim-20"
+    },
+    {
+    "name": "Apple Books",
+    "url": "https://goto.applebooks.apple/9780593441282?at=10lIEQ"
+    },
+    {
+    "name": "Barnes and Noble",
+    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593441282"
+    },
+    {
+    "name": "Books-A-Million",
+    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFUNNY%2BSTORY%2FEmily%2BHenry%2F9780593441282"
+    },
+    {
+    "name": "Bookshop",
+    "url": "https://bookshop.org/a/3546/9780593441282"
+    },
+    {
+    "name": "IndieBound",
+    "url": "https://www.indiebound.org/book/9780593441282?aff=NYT"
+    }
+    ],
+    "book_uri": "nyt://book/e4f437a2-9715-56c0-90ae-cb569773dcce"
+    },
+    {
+    "rank": 6,
+    "rank_last_week": 0,
+    "weeks_on_list": 1,
+    "asterisk": 0,
+    "dagger": 0,
+    "primary_isbn10": "1668025590",
+    "primary_isbn13": "9781668025598",
+    "publisher": "Gallery/Scout",
+    "description": "On a storm-swept island, there is a killer amid five couples who were cast on a reality TV series and are now unable to contact their crew.",
+    "price": "0.00",
+    "title": "ONE PERFECT COUPLE",
+    "author": "Ruth Ware",
+    "contributor": "by Ruth Ware",
+    "contributor_note": "",
+    "book_image": "https://storage.googleapis.com/du-prd/books/images/9781668025598.jpg",
+    "book_image_width": 331,
+    "book_image_height": 500,
+    "amazon_product_url": "https://www.amazon.com/dp/1668025590?tag=thenewyorktim-20",
+    "age_group": "",
+    "book_review_link": "",
+    "first_chapter_link": "",
+    "sunday_review_link": "",
+    "article_chapter_link": "",
+    "isbns": [
+    {
+    "isbn10": "1668025590",
+    "isbn13": "9781668025598"
+    },
+    {
+    "isbn10": "1668025612",
+    "isbn13": "9781668025611"
+    }
+    ],
+    "buy_links": [
+    {
+    "name": "Amazon",
+    "url": "https://www.amazon.com/dp/1668025590?tag=thenewyorktim-20"
+    },
+    {
+    "name": "Apple Books",
+    "url": "https://goto.applebooks.apple/9781668025598?at=10lIEQ"
+    },
+    {
+    "name": "Barnes and Noble",
+    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781668025598"
+    },
+    {
+    "name": "Books-A-Million",
+    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FONE%2BPERFECT%2BCOUPLE%2FRuth%2BWare%2F9781668025598"
+    },
+    {
+    "name": "Bookshop",
+    "url": "https://bookshop.org/a/3546/9781668025598"
+    },
+    {
+    "name": "IndieBound",
+    "url": "https://www.indiebound.org/book/9781668025598?aff=NYT"
+    }
+    ],
+    "book_uri": "nyt://book/f38f5d61-3a92-5adf-9154-d4e577c78f31"
+    },
+    {
+    "rank": 7,
+    "rank_last_week": 4,
+    "weeks_on_list": 55,
+    "asterisk": 0,
+    "dagger": 0,
+    "primary_isbn10": "1649374046",
+    "primary_isbn13": "9781649374042",
+    "publisher": "Red Tower",
+    "description": "Violet Sorrengail is urged by the commanding general, who also is her mother, to become a candidate for the elite dragon riders.",
+    "price": "0.00",
+    "title": "FOURTH WING",
+    "author": "Rebecca Yarros",
+    "contributor": "by Rebecca Yarros",
+    "contributor_note": "",
+    "book_image": "https://storage.googleapis.com/du-prd/books/images/9781649374042.jpg",
+    "book_image_width": 309,
+    "book_image_height": 500,
+    "amazon_product_url": "https://www.amazon.com/dp/1649374046?tag=thenewyorktim-20",
+    "age_group": "",
+    "book_review_link": "",
+    "first_chapter_link": "",
+    "sunday_review_link": "",
+    "article_chapter_link": "",
+    "isbns": [
+    {
+    "isbn10": "1649374046",
+    "isbn13": "9781649374042"
+    },
+    {
+    "isbn10": "1649374089",
+    "isbn13": "9781649374080"
+    },
+    {
+    "isbn10": "1705085059",
+    "isbn13": "9781705085059"
+    },
+    {
+    "isbn10": "1705085032",
+    "isbn13": "9781705085035"
+    },
+    {
+    "isbn10": "1649376162",
+    "isbn13": "9781649376169"
+    }
+    ],
+    "buy_links": [
+    {
+    "name": "Amazon",
+    "url": "https://www.amazon.com/dp/1649374046?tag=thenewyorktim-20"
+    },
+    {
+    "name": "Apple Books",
+    "url": "https://goto.applebooks.apple/9781649374042?at=10lIEQ"
+    },
+    {
+    "name": "Barnes and Noble",
+    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781649374042"
+    },
+    {
+    "name": "Books-A-Million",
+    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFOURTH%2BWING%2FRebecca%2BYarros%2F9781649374042"
+    },
+    {
+    "name": "Bookshop",
+    "url": "https://bookshop.org/a/3546/9781649374042"
+    },
+    {
+    "name": "IndieBound",
+    "url": "https://www.indiebound.org/book/9781649374042?aff=NYT"
+    }
+    ],
+    "book_uri": "nyt://book/106c2cf0-7d20-51b1-bad4-91c3ebcd131a"
+    },
+    {
+    "rank": 8,
+    "rank_last_week": 7,
+    "weeks_on_list": 29,
+    "asterisk": 0,
+    "dagger": 0,
+    "primary_isbn10": "1649374178",
+    "primary_isbn13": "9781649374172",
+    "publisher": "Red Tower",
+    "description": "The second book in the Empyrean series. Violet Sorrengail’s next round of training might require her to betray the man she loves.",
+    "price": "0.00",
+    "title": "IRON FLAME",
+    "author": "Rebecca Yarros",
+    "contributor": "by Rebecca Yarros",
+    "contributor_note": "",
+    "book_image": "https://storage.googleapis.com/du-prd/books/images/9781649374172.jpg",
+    "book_image_width": 309,
+    "book_image_height": 500,
+    "amazon_product_url": "https://www.amazon.com/dp/1649374178?tag=thenewyorktim-20",
+    "age_group": "",
+    "book_review_link": "",
+    "first_chapter_link": "",
+    "sunday_review_link": "",
+    "article_chapter_link": "",
+    "isbns": [
+    {
+    "isbn10": "1649374178",
+    "isbn13": "9781649374172"
+    },
+    {
+    "isbn10": "1705085083",
+    "isbn13": "9781705085080"
+    }
+    ],
+    "buy_links": [
+    {
+    "name": "Amazon",
+    "url": "https://www.amazon.com/dp/1649374178?tag=thenewyorktim-20"
+    },
+    {
+    "name": "Apple Books",
+    "url": "https://goto.applebooks.apple/9781649374172?at=10lIEQ"
+    },
+    {
+    "name": "Barnes and Noble",
+    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781649374172"
+    },
+    {
+    "name": "Books-A-Million",
+    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FIRON%2BFLAME%2FRebecca%2BYarros%2F9781649374172"
+    },
+    {
+    "name": "Bookshop",
+    "url": "https://bookshop.org/a/3546/9781649374172"
+    },
+    {
+    "name": "IndieBound",
+    "url": "https://www.indiebound.org/book/9781649374172?aff=NYT"
+    }
+    ],
+    "book_uri": "nyt://book/d3c570c9-3c3a-5c8b-a740-85ea5e92bfc9"
+    },
+    {
+    "rank": 9,
+    "rank_last_week": 3,
+    "weeks_on_list": 2,
+    "asterisk": 0,
+    "dagger": 0,
+    "primary_isbn10": "1538756315",
+    "primary_isbn13": "9781538756317",
+    "publisher": "Grand Central",
+    "description": "The 12th book in the Myron Bolitar series. Myron’s client, whom he eulogized three years ago, might still be alive and is the main suspect in a double homicide.",
+    "price": "0.00",
+    "title": "THINK TWICE",
+    "author": "Harlan Coben",
+    "contributor": "by Harlan Coben",
+    "contributor_note": "",
+    "book_image": "https://storage.googleapis.com/du-prd/books/images/9781538756317.jpg",
+    "book_image_width": 331,
+    "book_image_height": 500,
+    "amazon_product_url": "https://www.amazon.com/dp/1538756315?tag=thenewyorktim-20",
+    "age_group": "",
+    "book_review_link": "",
+    "first_chapter_link": "",
+    "sunday_review_link": "",
+    "article_chapter_link": "",
+    "isbns": [
+    {
+    "isbn10": "1538756315",
+    "isbn13": "9781538756317"
+    },
+    {
+    "isbn10": "153875634X",
+    "isbn13": "9781538756348"
+    }
+    ],
+    "buy_links": [
+    {
+    "name": "Amazon",
+    "url": "https://www.amazon.com/dp/1538756315?tag=thenewyorktim-20"
+    },
+    {
+    "name": "Apple Books",
+    "url": "https://goto.applebooks.apple/9781538756317?at=10lIEQ"
+    },
+    {
+    "name": "Barnes and Noble",
+    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781538756317"
+    },
+    {
+    "name": "Books-A-Million",
+    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHINK%2BTWICE%2FHarlan%2BCoben%2F9781538756317"
+    },
+    {
+    "name": "Bookshop",
+    "url": "https://bookshop.org/a/3546/9781538756317"
+    },
+    {
+    "name": "IndieBound",
+    "url": "https://www.indiebound.org/book/9781538756317?aff=NYT"
+    }
+    ],
+    "book_uri": "nyt://book/984e951b-c71f-5038-b97a-6cdc0546a74d"
+    },
+    {
+    "rank": 10,
+    "rank_last_week": 8,
+    "weeks_on_list": 3,
+    "asterisk": 0,
+    "dagger": 0,
+    "primary_isbn10": "0316403083",
+    "primary_isbn13": "9780316403085",
+    "publisher": "Little, Brown",
+    "description": "The 24th book in the Women’s Murder Club series. A high-society killer could spell trouble for members of the club.",
+    "price": "0.00",
+    "title": "THE 24TH HOUR",
+    "author": "James Patterson and Maxine Paetro",
+    "contributor": "by James Patterson and Maxine Paetro",
+    "contributor_note": "",
+    "book_image": "https://storage.googleapis.com/du-prd/books/images/9780316403085.jpg",
+    "book_image_width": 323,
+    "book_image_height": 500,
+    "amazon_product_url": "https://www.amazon.com/dp/0316403083?tag=thenewyorktim-20",
+    "age_group": "",
+    "book_review_link": "",
+    "first_chapter_link": "",
+    "sunday_review_link": "",
+    "article_chapter_link": "",
+    "isbns": [
+    {
+    "isbn10": "0316403083",
+    "isbn13": "9780316403085"
+    },
+    {
+    "isbn10": "0316403288",
+    "isbn13": "9780316403283"
+    }
+    ],
+    "buy_links": [
+    {
+    "name": "Amazon",
+    "url": "https://www.amazon.com/dp/0316403083?tag=thenewyorktim-20"
+    },
+    {
+    "name": "Apple Books",
+    "url": "https://goto.applebooks.apple/9780316403085?at=10lIEQ"
+    },
+    {
+    "name": "Barnes and Noble",
+    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316403085"
+    },
+    {
+    "name": "Books-A-Million",
+    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2B24TH%2BHOUR%2FJames%2BPatterson%2Band%2BMaxine%2BPaetro%2F9780316403085"
+    },
+    {
+    "name": "Bookshop",
+    "url": "https://bookshop.org/a/3546/9780316403085"
+    },
+    {
+    "name": "IndieBound",
+    "url": "https://www.indiebound.org/book/9780316403085?aff=NYT"
+    }
+    ],
+    "book_uri": "nyt://book/e059e6f1-a93d-511b-a934-be9d94747b4c"
+    },
+    {
+    "rank": 11,
+    "rank_last_week": 0,
+    "weeks_on_list": 1,
+    "asterisk": 0,
+    "dagger": 0,
+    "primary_isbn10": "0593422872",
+    "primary_isbn13": "9780593422878",
+    "publisher": "Putnam",
+    "description": "The 24th book in the Jack Ryan series. Four decades after dealing with the Soviet submarine Red October, President Ryan takes on a new Russian vessel headed for the east coast.",
+    "price": "0.00",
+    "title": "TOM CLANCY: ACT OF DEFIANCE",
+    "author": "Brian Andrews and Jeffrey Wilson",
+    "contributor": "by Brian Andrews and Jeffrey Wilson",
+    "contributor_note": "",
+    "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593422878.jpg",
+    "book_image_width": 332,
+    "book_image_height": 500,
+    "amazon_product_url": "https://www.amazon.com/dp/0593422872?tag=thenewyorktim-20",
+    "age_group": "",
+    "book_review_link": "",
+    "first_chapter_link": "",
+    "sunday_review_link": "",
+    "article_chapter_link": "",
+    "isbns": [
+    {
+    "isbn10": "0593422872",
+    "isbn13": "9780593422878"
+    },
+    {
+    "isbn10": "0593422880",
+    "isbn13": "9780593422885"
+    }
+    ],
+    "buy_links": [
+    {
+    "name": "Amazon",
+    "url": "https://www.amazon.com/dp/0593422872?tag=thenewyorktim-20"
+    },
+    {
+    "name": "Apple Books",
+    "url": "https://goto.applebooks.apple/9780593422878?at=10lIEQ"
+    },
+    {
+    "name": "Barnes and Noble",
+    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593422878"
+    },
+    {
+    "name": "Books-A-Million",
+    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTOM%2BCLANCY%253A%2BACT%2BOF%2BDEFIANCE%2FBrian%2BAndrews%2Band%2BJeffrey%2BWilson%2F9780593422878"
+    },
+    {
+    "name": "Bookshop",
+    "url": "https://bookshop.org/a/3546/9780593422878"
+    },
+    {
+    "name": "IndieBound",
+    "url": "https://www.indiebound.org/book/9780593422878?aff=NYT"
+    }
+    ],
+    "book_uri": "nyt://book/8e17e409-e96d-5b7d-a5b8-ffc1242db761"
+    },
+    {
+    "rank": 12,
+    "rank_last_week": 9,
+    "weeks_on_list": 3,
+    "asterisk": 0,
+    "dagger": 0,
+    "primary_isbn10": "1649376901",
+    "primary_isbn13": "9781649376909",
+    "publisher": "Red Tower",
+    "description": "Five dangerous liars must trust one another enough to kill the God King Joon.",
+    "price": "0.00",
+    "title": "FIVE BROKEN BLADES",
+    "author": "Mai Corland",
+    "contributor": "by Mai Corland",
+    "contributor_note": "",
+    "book_image": "https://storage.googleapis.com/du-prd/books/images/9781649376909.jpg",
+    "book_image_width": 333,
+    "book_image_height": 500,
+    "amazon_product_url": "https://www.amazon.com/dp/1649376901?tag=thenewyorktim-20",
+    "age_group": "",
+    "book_review_link": "",
+    "first_chapter_link": "",
+    "sunday_review_link": "",
+    "article_chapter_link": "",
+    "isbns": [
+    {
+    "isbn10": "1649376901",
+    "isbn13": "9781649376909"
+    },
+    {
+    "isbn10": "1649376987",
+    "isbn13": "9781649376985"
+    }
+    ],
+    "buy_links": [
+    {
+    "name": "Amazon",
+    "url": "https://www.amazon.com/dp/1649376901?tag=thenewyorktim-20"
+    },
+    {
+    "name": "Apple Books",
+    "url": "https://goto.applebooks.apple/9781649376909?at=10lIEQ"
+    },
+    {
+    "name": "Barnes and Noble",
+    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781649376909"
+    },
+    {
+    "name": "Books-A-Million",
+    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFIVE%2BBROKEN%2BBLADES%2FMai%2BCorland%2F9781649376909"
+    },
+    {
+    "name": "Bookshop",
+    "url": "https://bookshop.org/a/3546/9781649376909"
+    },
+    {
+    "name": "IndieBound",
+    "url": "https://www.indiebound.org/book/9781649376909?aff=NYT"
+    }
+    ],
+    "book_uri": "nyt://book/784ce367-5bb1-5e59-8c0e-c1a11c7acd3c"
+    },
+    {
+    "rank": 13,
+    "rank_last_week": 0,
+    "weeks_on_list": 1,
+    "asterisk": 0,
+    "dagger": 0,
+    "primary_isbn10": "0385546297",
+    "primary_isbn13": "9780385546294",
+    "publisher": "Doubleday",
+    "description": "After his family’s trust fizzles, Rufus goes to his sister’s wedding to find an heiress but a volcanic eruption and a hot mic scorch his plans.",
+    "price": "0.00",
+    "title": "LIES AND WEDDINGS",
+    "author": "Kevin Kwan",
+    "contributor": "by Kevin Kwan",
+    "contributor_note": "",
+    "book_image": "https://storage.googleapis.com/du-prd/books/images/9780385546294.jpg",
+    "book_image_width": 333,
+    "book_image_height": 500,
+    "amazon_product_url": "https://www.amazon.com/dp/0385546297?tag=thenewyorktim-20",
+    "age_group": "",
+    "book_review_link": "",
+    "first_chapter_link": "",
+    "sunday_review_link": "",
+    "article_chapter_link": "",
+    "isbns": [
+    {
+    "isbn10": "0385546297",
+    "isbn13": "9780385546294"
+    }
+    ],
+    "buy_links": [
+    {
+    "name": "Amazon",
+    "url": "https://www.amazon.com/dp/0385546297?tag=thenewyorktim-20"
+    },
+    {
+    "name": "Apple Books",
+    "url": "https://goto.applebooks.apple/9780385546294?at=10lIEQ"
+    },
+    {
+    "name": "Barnes and Noble",
+    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385546294"
+    },
+    {
+    "name": "Books-A-Million",
+    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLIES%2BAND%2BWEDDINGS%2FKevin%2BKwan%2F9780385546294"
+    },
+    {
+    "name": "Bookshop",
+    "url": "https://bookshop.org/a/3546/9780385546294"
+    },
+    {
+    "name": "IndieBound",
+    "url": "https://www.indiebound.org/book/9780385546294?aff=NYT"
+    }
+    ],
+    "book_uri": "nyt://book/36f68473-7b1a-57bb-a3f3-075b616d0642"
+    },
+    {
+    "rank": 14,
+    "rank_last_week": 6,
+    "weeks_on_list": 4,
+    "asterisk": 0,
+    "dagger": 0,
+    "primary_isbn10": "None",
+    "primary_isbn13": "9798212182843",
+    "publisher": "Blackstone",
+    "description": "Three estranged siblings find evidence of a dark secret involving their absent father and recently deceased mother.",
+    "price": "0.00",
+    "title": "HOME IS WHERE THE BODIES ARE",
+    "author": "Jeneva Rose",
+    "contributor": "by Jeneva Rose",
+    "contributor_note": "",
+    "book_image": "https://storage.googleapis.com/du-prd/books/images/9798212182843.jpg",
+    "book_image_width": 313,
+    "book_image_height": 500,
+    "amazon_product_url": "https://www.amazon.com/dp/B0CCK3XKYK?tag=thenewyorktim-20",
+    "age_group": "",
+    "book_review_link": "",
+    "first_chapter_link": "",
+    "sunday_review_link": "",
+    "article_chapter_link": "",
+    "isbns": [],
+    "buy_links": [
+    {
+    "name": "Amazon",
+    "url": "https://www.amazon.com/dp/B0CCK3XKYK?tag=thenewyorktim-20"
+    },
+    {
+    "name": "Apple Books",
+    "url": "https://goto.applebooks.apple/9798212182843?at=10lIEQ"
+    },
+    {
+    "name": "Barnes and Noble",
+    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9798212182843"
+    },
+    {
+    "name": "Books-A-Million",
+    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHOME%2BIS%2BWHERE%2BTHE%2BBODIES%2BARE%2FJeneva%2BRose%2F9798212182843"
+    },
+    {
+    "name": "Bookshop",
+    "url": "https://bookshop.org/a/3546/9798212182843"
+    },
+    {
+    "name": "IndieBound",
+    "url": "https://www.indiebound.org/book/9798212182843?aff=NYT"
+    }
+    ],
+    "book_uri": "nyt://book/c5aa0964-5ea4-5ac3-956b-59c1dee667c7"
+    },
+    {
+    "rank": 15,
+    "rank_last_week": 12,
+    "weeks_on_list": 6,
+    "asterisk": 0,
+    "dagger": 0,
+    "primary_isbn10": "1538765020",
+    "primary_isbn13": "9781538765029",
+    "publisher": "Grand Central",
+    "description": "Lawyers from different backgrounds represent a Black man charged with killing a wealthy white couple in Virginia in 1968.",
+    "price": "0.00",
+    "title": "A CALAMITY OF SOULS",
+    "author": "David Baldacci",
+    "contributor": "by David Baldacci",
+    "contributor_note": "",
+    "book_image": "https://storage.googleapis.com/du-prd/books/images/9781538765029.jpg",
+    "book_image_width": 331,
+    "book_image_height": 500,
+    "amazon_product_url": "https://www.amazon.com/dp/1538765020?tag=thenewyorktim-20",
+    "age_group": "",
+    "book_review_link": "",
+    "first_chapter_link": "",
+    "sunday_review_link": "",
+    "article_chapter_link": "",
+    "isbns": [
+    {
+    "isbn10": "1538765020",
+    "isbn13": "9781538765029"
+    },
+    {
+    "isbn10": "1538768356",
+    "isbn13": "9781538768358"
+    },
+    {
+    "isbn10": "1538766477",
+    "isbn13": "9781538766477"
+    },
+    {
+    "isbn10": "1538765055",
+    "isbn13": "9781538765050"
+    },
+    {
+    "isbn10": "166863709X",
+    "isbn13": "9781668637098"
+    }
+    ],
+    "buy_links": [
+    {
+    "name": "Amazon",
+    "url": "https://www.amazon.com/dp/1538765020?tag=thenewyorktim-20"
+    },
+    {
+    "name": "Apple Books",
+    "url": "https://goto.applebooks.apple/9781538765029?at=10lIEQ"
+    },
+    {
+    "name": "Barnes and Noble",
+    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781538765029"
+    },
+    {
+    "name": "Books-A-Million",
+    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FA%2BCALAMITY%2BOF%2BSOULS%2FDavid%2BBaldacci%2F9781538765029"
+    },
+    {
+    "name": "Bookshop",
+    "url": "https://bookshop.org/a/3546/9781538765029"
+    },
+    {
+    "name": "IndieBound",
+    "url": "https://www.indiebound.org/book/9781538765029?aff=NYT"
+    }
+    ],
+    "book_uri": "nyt://book/077c6e94-e5e8-51aa-890a-f8d9ce4f926d"
+    }
+    ],
+    "corrections": []
+    }
+    }

@@ -31,8 +31,23 @@ body {
 }
 
 h1 {
-  font-size: 3.2em;
-  line-height: 1.1;
+  font-size: 2.2em;
+  line-height: 1.0;
+  margin: 2px;
+}
+
+/* --------------- Nav stuff ---------------  */
+nav {
+  display: flex;
+}
+
+nav > ul {
+  display: flex;
+  list-style-type: none;
+}
+
+nav > ul > li {
+  margin-left: 5px;
 }
 
 #app {
@@ -42,18 +57,6 @@ h1 {
   text-align: center;
 }
 
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
-}
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.vanilla:hover {
-  filter: drop-shadow(0 0 2em #f7df1eaa);
-}
 
 .card {
   padding: 2em;
@@ -66,11 +69,11 @@ h1 {
 button {
   border-radius: 8px;
   border: 1px solid transparent;
-  padding: 0.6em 1.2em;
+  padding: 0.2em 1em;
   font-size: 1em;
   font-weight: 500;
   font-family: inherit;
-  background-color: #1a1a1a;
+  background-color: #c63c48;
   cursor: pointer;
   transition: border-color 0.25s;
 }
@@ -93,4 +96,27 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
+}
+
+
+/* css for the modal review stuff */
+
+.hidden {
+  display: none;
+}
+
+.review-modal {
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.507);
+  width: 20vw;
+  
+}
+
+.review-modal:nth-child(1) {
+  line-height: 4em;
+}
+
+img {
+  height: 50vh;
+  width: 15vw;
 }

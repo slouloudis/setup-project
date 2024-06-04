@@ -3,11 +3,30 @@
   <head>
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <link rel="stylesheet" href="style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Vite App</title>
   </head>
   <body>
-    <div id="app"></div>
+    <div id="app">
+      <nav>
+        <div>
+          <h1>Sams Books</h1>
+          <p>my taste rules!</p>
+        </div>
+        <ul>
+          <li>link one</li>
+          <li>link two</li>
+          <li>link three</li>
+        </ul>
+      </nav>
+
+      <form id="review-form" class="hidden review-modal">
+        <input placeholder="username" required name="username"/>
+        <textarea placeholder="review..." required name="review" rows="6" cols="9"></textarea>
+        <button type="submit">submit</button>
+      </form>
+    </div>
     <script type="module" src="/main.js"></script>
   </body>
 </html>
