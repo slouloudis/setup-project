@@ -31,6 +31,8 @@ app.get('/books', async (req, res) => {
 
 app.get('/review/:id', (req, res) => {
     const bookId = req.params.id
+    // rest
+    res.status(200).send('oh yeah')
 })
 
 app.post('review/:id', (req, res) => {
@@ -40,6 +42,7 @@ app.post('review/:id', (req, res) => {
     // if it fails, the code inside the catch block will run
     try {
         db.query(`INSERT INTO reviews (username, review, book_id) VALUES ($1, $1)`, [])
+        res.status(200).send('Donezo')
 
     } catch (err) {
         res.status(500).send(err)
