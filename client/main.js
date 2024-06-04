@@ -1,5 +1,8 @@
+
+const baseUrl = 'http://localhost:5252' // or if for prod 'onrender.com'
+
 async function fetchBooks() {
-  const response = await fetch(`http://localhost:5252/books`)
+  const response = await fetch(`${baseUrl}/books`)
   const books = await response.json()
   return books.results.books
 }
