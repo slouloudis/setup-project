@@ -1,24 +1,55 @@
-import './style.css'
-import javascriptLogo from './javascript.svg'
-import viteLogo from '/vite.svg'
-import { setupCounter } from './counter.js'
+async function fetchBooks() {
+  const response = await fetch(`http://localhost:5252/books`)
+  const books = await response.json()
+  return books.results.books
+}
 
-document.querySelector('#app').innerHTML = `
-  <div>
-    <a href="https://vitejs.dev" target="_blank">
-      <img src="${viteLogo}" class="logo" alt="Vite logo" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-      <img src="${javascriptLogo}" class="logo vanilla" alt="JavaScript logo" />
-    </a>
-    <h1>Hello Vite!</h1>
-    <div class="card">
-      <button id="counter" type="button"></button>
-    </div>
-    <p class="read-the-docs">
-      Click on the Vite logo to learn more
-    </p>
-  </div>
-`
+async function displayBooks() {
+  const books = await fetchBooks()
+  const container = document.getElementById('app')
 
-setupCounter(document.querySelector('#counter'))
+  console.log(books)
+  books.forEach(book => {
+    const bookElem = document.createElement('div')
+    bookElem.innerHTML = 
+   `
+        <img src="${book.book_image}"/>
+        <p>${book.author}</p>
+    `
+    const button = document.createElement('button')
+    button.textContent = 'review'
+    bookElem.appendChild(button)
+    button.addEventListener('click', () => {
+      toggleModal()
+      const reviewForm = document.getElementById('review-form')
+      reviewForm.addEventListener('submit', (event) => {
+        event.preventDefault()
+
+        const formData = new FormData(reviewForm)
+        const review = Object.fromEntries(formData)
+
+        submitReview(book, review)
+        toggleModal()
+      })
+    })
+    container.appendChild(bookElem)
+  })
+
+}
+
+displayBooks()
+
+// toggleModal(book) 
+
+function toggleModal() {
+  let reviewForm = document.getElementById('review-form')
+  reviewForm.classList.toggle('hidden')
+}
+
+async function addReview(book) {
+
+}
+
+function submitReview(book, review) {
+  console.log(book, review)
+}
